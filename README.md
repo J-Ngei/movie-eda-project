@@ -1,5 +1,3 @@
-# movie-eda-project
-
 # IMDb Top 1000 Movies - Exploratory Data Analysis (EDA)
 
 This project performs an exploratory data analysis (EDA) on the IMDb Top 1000 Movies and TV Shows dataset.
