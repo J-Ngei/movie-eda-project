@@ -6,31 +6,31 @@ This project performs an exploratory data analysis (EDA) on the IMDb Top 1000 Mo
 - Loaded and cleaned the dataset
 - Handled missing values
 - Analyzed movie genres
-- Visualized rating distribution and gross earnings
+- Visualized rating distribution
 - Split multiple genres into individual categories
-- Created bar charts and pie charts for genre distributions
+- Created votes vs gross earnings with regression line
 
 ## Tools Used:
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab
+- Jupyter Notebook
 
 ## Data Source
 - Dataset Title: [IMDb Dataset of Top 1000 Movies and TV Shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows?resource=download)
 - Source: Kaggle (Uploaded by Harshit Shankhdhar)
 
-**Note:**  
-The dataset was manually uploaded into Google Colab for processing and analysis.  
+**Note:**    
 The CSV file is not re-uploaded here due to Kaggle's licensing restrictions.  
 Please download it directly from the source if you wish to replicate this project.
 
 ## Sample Plots:
 - Distribution of IMDB Ratings
-- IMDB Rating vs Gross Earnings
-- Top 10 Most Common Genres
-- Top 5 Genres Pie Chart
+- No. of Votes vs Gross Earnings
+- Correlation Heatmap
+- Top 10 Movies by IMDB Rating
+- Top 10 Genres
 
 ---
 
